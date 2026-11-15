@@ -122,6 +122,18 @@ Still stuck? [Open an issue](../../issues) with your game build, mod list and cr
 
 ---
 
+
+## Recommended System Requirements
+
+Running **LCPP**, **NaturalVision Evolved**, **LWE V3.0**, and **Forests of San Andreas** together puts a heavy load on system memory and VRAM. For smooth, crash-free gameplay with this config:
+
+- **RAM:** 24 GB or higher *(32 GB recommended for zero stutters)*
+- **GPU (VRAM):** 6 GB VRAM or higher *(8 GB+ recommended if using LCPP HD Textures)*
+- **Storage:** SSD / NVMe *(Required to stream Liberty City and custom foliage without texture pop-in)*
+- **Game Version:** GTA V Legacy Build `1.0.3889`
+
+---
+
 ## Credits
 
 - **Author:** Designed, configured and stress-tested by me.
