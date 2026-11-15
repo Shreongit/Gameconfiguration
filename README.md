@@ -9,12 +9,6 @@
 [![Mode](https://img.shields.io/badge/Mode-Single%20Player-blue?style=for-the-badge)](#disclaimer)
 [![Mods](https://img.shields.io/badge/Mod%20Stack-LCPP%20%2B%20NVE%20%2B%20LWE%20%2B%20FoSA-purple?style=for-the-badge)](#tested-mod-stack)
 
-[![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/YOUR_REPO?style=flat-square&logo=github)](../../stargazers)
-[![Latest Release](https://img.shields.io/github/v/release/YOUR_USERNAME/YOUR_REPO?style=flat-square)](../../releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/YOUR_USERNAME/YOUR_REPO/total?style=flat-square)](../../releases)
-[![Issues](https://img.shields.io/github/issues/YOUR_USERNAME/YOUR_REPO?style=flat-square)](../../issues)
-[![License](https://img.shields.io/github/license/YOUR_USERNAME/YOUR_REPO?style=flat-square)](LICENSE)
-
 [Download](../../releases/latest) · [Installation](#installation) · [Requirements](#requirements) · [Troubleshooting](#troubleshooting)
 
 </div>
